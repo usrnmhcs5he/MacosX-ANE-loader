@@ -116,3 +116,7 @@ MacosX-ANE-loader/
 | Version | Changes |
 |---------|---------|
 | **1.0** | First release: slider and presets, duty-cycle load on two workers, throughput and TFLOPS readout, ANE placement check (macOS 14.4+), `build.sh` with ad-hoc signing, `make_model.py` |
+
+## 📄 License
+
+MIT. See [LICENSE](LICENSE).
