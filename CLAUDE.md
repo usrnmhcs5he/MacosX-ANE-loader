@@ -26,6 +26,7 @@ This repo is **public**. Everything pushed here, including commit metadata and P
   PR themselves.
 - **Hygiene check before every push** (below). If it finds anything, stop and tell the owner; don't push.
 - Never force-push or rewrite `main`. No prebuilt apps or other binaries besides the model.
+- **Changes to this file need the owner's permission:** propose the exact text and wait for a yes.
 
 ## Hygiene check
 
